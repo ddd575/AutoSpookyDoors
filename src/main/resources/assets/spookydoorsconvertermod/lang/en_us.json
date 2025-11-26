@@ -1,0 +1,13 @@
+{
+  "itemGroup.spookydoorsconvertermod": "Example Mod Tab",
+  "block.spookydoorsconvertermod.example_block": "Example Block",
+  "item.spookydoorsconvertermod.example_item": "Example Item",
+
+  "spookydoorsconvertermod.configuration.title": "SpookyDoorsConverterMod  Configs",
+  "spookydoorsconvertermod.configuration.section.spookydoorsconvertermod.common.toml": "SpookyDoorsConverterMod  Configs",
+  "spookydoorsconvertermod.configuration.section.spookydoorsconvertermod.common.toml.title": "SpookyDoorsConverterMod  Configs",
+  "spookydoorsconvertermod.configuration.items": "Item List",
+  "spookydoorsconvertermod.configuration.logDirtBlock": "Log Dirt Block",
+  "spookydoorsconvertermod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "spookydoorsconvertermod.configuration.magicNumber": "Magic Number"
+}
